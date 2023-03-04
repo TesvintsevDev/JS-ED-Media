@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+YouTube Clone Application in React JS with Material UI 5
+![Youtube-Clone](https://user-images.githubusercontent.com/83923244/222910148-4987b5ff-6d94-407d-bbb7-fd7e42bf2299.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
